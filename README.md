@@ -2,7 +2,7 @@
 
 **Applied AI, ML, MLOps & LLMOps Engineer** · Final-year Engineering Student at **CY Tech (EISTI)** · AI Engineer Intern @ **Hiboo** *(Paris, France)*
 
-Available for a full-time role (**CDI**) starting **December 2026** (Paris · Luxembourg · Ireland).
+Available for a full-time role (**CDI**) starting **December 2026** (Paris · Luxembourg · Ireland · Netherlands).
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-firasyazidi.github.io-10B981?style=for-the-badge&logo=githubpages&logoColor=white)](https://firasyazidi.github.io/#projects)
 [![Live 3D Demo](https://img.shields.io/badge/Live_3D_Demo-AI_Grocery_Lab-0EA5E9?style=for-the-badge&logo=threedotjs&logoColor=white)](https://firasyazidi.github.io/demos/ai-grocery-lab/index.html)
@@ -28,9 +28,9 @@ Available for a full-time role (**CDI**) starting **December 2026** (Paris · Lu
 
 ## 📊 Verified Production Impact
 
-- **Hiboo (AI Engineer Intern, 2026):** Audited **67.6M** industrial fault-code occurrences over 12 months with Python, SQL, Polars & Databricks; raised text-classification macro F1 from **0.678 → 0.734** (TF-IDF + BERT, MLflow) and evaluated a production classifier reaching **65.4% Automation Rate at 95% precision** (Alert Score **0.847**) in an end-to-end Databricks pilot.
-- **Tunisie Telecom (ML Engineer Intern, 2025):** Built a modular Python + MLflow XGBoost pipeline (**85% accuracy, 87% recall, 0.86 F1**) driving a **+12% conversion lift** in A/B testing.
-- **YSSM Tech (ML Engineer Intern, 2024):** Built a Django + PostgreSQL e-commerce CRM backend with Dockerized real-time XGBoost REST scoring (**90% accuracy, 0.85 F1**), driving a **+10% A/B conversion lift**.
+- **Hiboo (AI Engineer Intern, 2026 — *Equipment Data Platform for industrial & construction fleets*):** Audited **67.6M** industrial fault-code occurrences over 12 months with Python, SQL, Polars & Databricks; built Fault Code Insights (Notion), raised text-classification macro F1 from **0.678 → 0.734** (TF-IDF + BERT, MLflow), and evaluated a production classifier reaching **65.4% Automation Rate at 95% precision** (Alert Score **0.847**) in an end-to-end Databricks pilot.
+- **Tunisie Telecom (ML Engineer Intern, 2025 — *Tunisia's incumbent telecom operator*):** Built a modular Python + MLflow XGBoost pipeline (**85% accuracy, 87% recall, 0.86 F1**) driving a **+12% conversion lift** in A/B testing.
+- **YSSM Tech (ML Engineer Intern, 2024 — *Consulting & e-commerce solutions*):** Built a Django + PostgreSQL e-commerce CRM backend with Dockerized real-time XGBoost REST scoring (**90% accuracy, 0.85 F1**), driving a **+10% A/B conversion lift**.
 
 ---
 
